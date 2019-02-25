@@ -1,0 +1,40 @@
+.box{ 
+    text-align:center;
+    margin:0 auto;
+    width:400px; 
+    height:300px; 
+    border: solid 1px #ddd;
+}  
+button{
+    width:350px;
+    padding-bottom: 15px;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.button1{
+    transition-duration: 0.4s;
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+    border-radius: 12px;
+    font-size: 20px;
+}
+.button1:hover {
+    background-color: #4CAF50;
+    color: white;
+}
+.button2 {
+    transition-duration: 0.4s;
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+    border-radius: 12px;
+    font-size: 20px;
+}
+
+.button2:hover {
+    background-color: #008CBA;
+    color: white;
+}
+
+   
